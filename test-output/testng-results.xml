@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-01T09:10:59 IST" name="Suite" finished-at="2024-09-01T09:10:59 IST" duration-ms="89">
+  <suite started-at="2024-09-02T11:45:31 IST" name="Suite" finished-at="2024-09-02T11:45:31 IST" duration-ms="49">
     <groups>
     </groups>
-    <test started-at="2024-09-01T09:10:59 IST" name="Test" finished-at="2024-09-01T09:10:59 IST" duration-ms="89">
+    <test started-at="2024-09-02T11:45:31 IST" name="Test" finished-at="2024-09-02T11:45:31 IST" duration-ms="49">
       <class name="prexoFunctionalTestCase.PrexoUiTestCase">
-        <test-method is-config="true" signature="createConnection()[pri:0, instance:prexoFunctionalTestCase.PrexoUiTestCase@46cdf8bd]" started-at="2024-09-01T09:10:59 IST" name="createConnection" finished-at="2024-09-01T09:10:59 IST" duration-ms="17" status="PASS">
+        <test-method is-config="true" signature="createConnection()[pri:0, instance:prexoFunctionalTestCase.PrexoUiTestCase@46cdf8bd]" started-at="2024-09-02T11:45:31 IST" name="createConnection" finished-at="2024-09-02T11:45:31 IST" duration-ms="8" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createConnection -->
-        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:prexoFunctionalTestCase.PrexoUiTestCase@46cdf8bd]" started-at="2024-09-01T09:10:59 IST" name="launchBrowser" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1725162059143" status="FAIL">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:prexoFunctionalTestCase.PrexoUiTestCase@46cdf8bd]" started-at="2024-09-02T11:45:31 IST" name="launchBrowser" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1725257731492" status="FAIL">
           <exception class="org.testng.TestNGException">
             <message>
               <![CDATA[
@@ -51,7 +51,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="ass1()[pri:0, instance:prexoFunctionalTestCase.PrexoUiTestCase@46cdf8bd]" started-at="2024-09-01T09:10:59 IST" name="ass1" finished-at="2024-09-01T09:10:59 IST" duration-ms="0" status="SKIP">
+        <test-method signature="ass1()[pri:0, instance:prexoFunctionalTestCase.PrexoUiTestCase@46cdf8bd]" started-at="2024-09-02T11:45:31 IST" name="ass1" finished-at="2024-09-02T11:45:31 IST" duration-ms="0" status="SKIP">
           <exception class="org.testng.TestNGException">
             <message>
               <![CDATA[
